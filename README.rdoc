@@ -1,2 +1,4 @@
 == README
 * blog-kln.herokuapp.com
+
+[ ![Codeship Status for kln/blog](https://codeship.io/projects/31825d70-06dd-0132-eb1d-6ae9410fa731/status)](https://codeship.io/projects/31200)
